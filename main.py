@@ -8,4 +8,4 @@ A = iter(A)
 print(A)
 
 for i in A:
-    print(i)
+    print(f"{i**2} : meta victims of day are {i}")
