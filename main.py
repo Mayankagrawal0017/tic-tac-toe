@@ -8,4 +8,8 @@ A = iter(A)
 print(A)
 
 for i in A:
+<<<<<<< HEAD
     print(f"{i} : meto-victim :{i**2}")
+=======
+    print(f"{i**2} : meta victims of day are {i}")
+>>>>>>> meto
