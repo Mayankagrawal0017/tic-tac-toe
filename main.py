@@ -2,10 +2,10 @@ print("hello")
 
 print("git"*3)
 
-import  numpy as np
+import numpy as np
 A = np.arange(25,512,10)
 A = iter(A)
 print(A)
 
 for i in A:
-    print(i)
+    print(f"{i} : meto-victim :{i**2}")
